@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=citrusina
+GenericName=File Converter
+Comment=Convert files from a circle by the pointer
+Exec=citrusina %F
+Icon=citrusina
+Terminal=false
+Categories=Utility;
+MimeType=image/jpeg;image/png;image/heic;image/heif;image/webp;image/tiff;image/bmp;image/gif;image/svg+xml;video/mp4;video/quicktime;video/x-matroska;video/x-msvideo;video/x-ms-wmv;video/webm;audio/mpeg;audio/mp4;audio/x-m4a;audio/wav;audio/x-wav;audio/flac;audio/ogg;audio/opus;audio/x-aiff;application/pdf;text/plain;application/vnd.openxmlformats-officedocument.wordprocessingml.document;application/x-subrip;text/vtt;application/zip;application/x-tar;application/x-compressed-tar;application/vnd.rar;
+Actions=Settings;
+
+[Desktop Action Settings]
+Name=Settings
+Exec=citrusina --settings

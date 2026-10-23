@@ -1,0 +1,17 @@
+name: citrusina
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pyside6
+  - xcb-util-cursor
+  - ffmpeg
+  - pillow
+  - pillow-heif
+  - cairosvg
+  - pandoc
+  - poppler
+  - p7zip
+  - pytest
+  - pyyaml
+  - pip
